@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<Maininformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+  <Intro>
+   <Information>
+    <Id>0</Id>
+    <heading>Human Right</heading>
+    <text>
+	
+	What is human right?
+
+	Human Rights refers to the concept of human beings as having universal natural rights, or status, regardless of legal jurisdiction or other 
+	localizing, such as ethnicity, sex and nationality,.</text>
+	 </Information>
+  </Intro>
+  <Intro>
+   <Information>
+    <Id>1</Id>
+    <heading>INTRODUCTION</heading>
+    <text>
+	
+	Even though the origin of human rights is ancient, the international concern with human rights may be said to be of comparatively recent 
+	origin. The UN Charter marks the advent of systematic human rights protection within the International system.
+
+	The idea of human rights is as old as humanity, its systematic proclamation and declaration are more recent. The world’s first bill of human 
+	rights was discovered on a clay tablet dating back from the reign of Cyrus the Great (555- 529 BC).
+
+	The documents which form the historical foundation of modern human rights jurisprudence are the English Bill of Rights (1688), the 
+	American Declaration of Independence (1776) and the French Declaration of Rights of Man (1789).
+	
+	The legal process in the universality of human rights effectively commenced with the Universal Declaration of Human Rights 1948 (UDHR).</text>
+    </Information>
+  </Intro>
+  <Intro>
+   <Information>
+    <Id>2</Id>
+    <heading>MEANING OF HUMAN RIGHTS:</heading>
+    <text>
+	
+	Human Beings are rational beings. They by virtue of their being human possess certain basic and inalienable rights which are commonly 
+	known as human rights.
+
+	Human Rights are defined as all those rights which are essential for the protection and maintenance of dignity of individuals and create 
+	conditions in which every human being can develop his personality to the fullest extent may be termed as human rights.
+
+	Human rights become operative with the birth of an individual. Human rights, being the birth right, are inherent in all the individuals 
+	irrespective of their caste, religion, sex and nationality.
+
+	Because of their immense significance to human beings ; human rights are also sometimes referred to as fundamental rights, basic rights, 
+	inherent rights, natural rights and birth rights.</text>
+	 </Information>
+  </Intro>
+ 
+  
+  
+  <UniversalDeclaration>
+    <Information>
+      <Id>3</Id>
+      <heading>
+	                                                         The Universal Declaration of Human Rights	  </heading>
+      <text>
+	  
+	  
+Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom
+, justice and peace in the world,
+Whereas it is essential to promote the development of friendly relations between nations,
+Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,
+
+Now, therefore,	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>4</Id>
+      <heading>The General Assembly</heading>
+      <text>
+	  
+Proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every 
+individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for 
+these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and 
+observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
+On December 10, 1948, the Universal Declaration of Human Rights (UDHR)was adopted by the 56 members of the United Nations. The vote was 
+unanimous, although eight nations chose to abstain.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>5</Id>
+      <heading>Article 1</heading>
+      <text>
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another 
+in a spirit of brotherhood.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>6</Id>
+      <heading>Article 2</heading>
+      <text>
+Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, 
+religion, political or other opinion, national or social origin, property, birth or other status.
+Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a 
+person belongs, whether it be independent, trust, non‐self‐governing or under any other limitation of sovereignty.</text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>7</Id>
+      <heading>Article 3</heading>
+      <text>
+Everyone has the right to life, liberty and the security of person.</text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>8</Id>
+      <heading>Article 4</heading>
+      <text>
+No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>9</Id>
+      <heading>Article 5</heading>
+      <text>
+No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>10</Id>
+      <heading>Article 6</heading>
+      <text>
+Everyone has the right to recognition everywhere as a person before the law.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>11</Id>
+      <heading>Article 7</heading>
+      <text>
+All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against 
+any discrimination in violation of this Declaration and against any incitement to such discrimination.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>12</Id>
+      <heading>Article 8</heading>
+      <text>
+Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the 
+constitution or by law.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>13</Id>
+      <heading>Article 9</heading>
+      <text>
+No one shall be subjected to arbitrary arrest, detention or exile.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>14</Id>
+      <heading>Article 10</heading>
+      <text>
+Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and 
+obligations and of any criminal charge against him.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>15</Id>
+      <heading>Article 11</heading>
+      <text>
+Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has 
+had all the guarantees necessary for his defence.
+No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or 
+international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the 
+penal offence was committed.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>16</Id>
+      <heading>Article 12</heading>
+      <text>
+No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. 
+Everyone has the right to the protection of the law against such interference or attacks.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>17</Id>
+      <heading>Article 13</heading>
+      <text>
+Everyone has the right to freedom of movement and residence within the borders of each State.
+Everyone has the right to leave any country, including his own, and to return to his country.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>18</Id>
+      <heading>Article 14</heading>
+      <text>
+Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+This right may not be invoked in the case of prosecutions genuinely arising from non political crimes or from acts contrary to the purposes and
+principles of the United Nations.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>19</Id>
+      <heading>Article 15</heading>
+      <text>
+Everyone has the right to a nationality.
+No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>20</Id>
+      <heading>Article 16</heading>
+      <text>
+Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled 
+to equal rights as to marriage, during marriage and at its dissolution.
+Marriage shall be entered into only with the free and full consent of the intending spouses.
+The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>21</Id>
+      <heading>Article 17</heading>
+      <text>
+Everyone has the right to own property alone as well as in association with others.
+No one shall be arbitrarily deprived of his property.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>22</Id>
+      <heading>Article 18</heading>
+      <text>
+Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, 
+either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and 
+observance.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>23</Id>
+      <heading>Article 19</heading>
+      <text>
+Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive 
+and impart information and ideas through any media and regardless of frontiers.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>24</Id>
+      <heading>Article 20</heading>
+      <text>
+Everyone has the right to freedom of peaceful assembly and association.
+No one may be compelled to belong to an association.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>25</Id>
+      <heading>Article 21</heading>
+      <text>
+Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
+Everyone has the right of equal access to public service in his country.
+The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be 
+by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>26</Id>
+      <heading>Article 22</heading>
+      <text>
+Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co‐operation 
+and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the 
+free development of his personality.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>27</Id>
+      <heading>Article 23</heading>
+      <text>
+Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
+Everyone, without any discrimination, has the right to equal pay for equal work.
+Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, 
+and supplemented, if necessary, by other means of social protection.
+Everyone has the right to form and to join trade unions for the protection of his interests.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>28</Id>
+      <heading>Article 24</heading>
+      <text>
+Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>29</Id>
+      <heading>Article 25</heading>
+      <text>
+Everyone has the right to a standard of living adequate for the health and well‐being of himself and of his family, including food, clothing, housing 
+and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or 
+other lack of livelihood in circumstances beyond his control.
+Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social 
+protection.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>30</Id>
+      <heading>Article 26</heading>
+      <text>
+Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be 
+compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on 
+the basis of merit.
+Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental 
+freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities 
+of the United Nations for the maintenance of peace.
+Parents have a prior right to choose the kind of education that shall be given to their children.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>31</Id>
+      <heading>Article 27</heading>
+      <text>
+Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its 
+benefits.
+Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is 
+the author.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>32</Id>
+      <heading>Article 28</heading>
+      <text>
+Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>33</Id>
+      <heading>Article 29</heading>
+      <text>
+Everyone has duties to the community in which alone the free and full development of his personality is possible.
+In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of 
+securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the 
+general welfare in a democratic society.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  <UniversalDeclaration>
+    <Information>
+      <Id>34</Id>
+      <heading>Article 30</heading>
+      <text>
+Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act 
+aimed at the destruction of any of the rights and freedoms set forth herein.
+	  </text>
+    </Information>
+  </UniversalDeclaration>
+  
+  <Htypes>
+    <Information>
+      <Id>35</Id>
+      <heading>Types of Human Rights
+1. Individual (civil) rights</heading>
+      <text>Life, liberty, and security of the person; privacy and freedom of movement; ownership of property; freedom of thought, conscience, and religious belief and practice; prohibition of slavery, torture, and cruel or degrading punishment.</text>
+    </Information>
+  </Htypes>
+  <Htypes>
+    <Information>
+      <Id>36</Id>
+      <heading>2. Rule of law
+</heading>
+      <text>Equal recognition before the law and equal protection of the law; effective legal remedy for violation of rights; impartial hearing and trial; presumption of innocence; and prohibition of arbitrary arrest.</text>
+    </Information>
+  </Htypes>
+  <Htypes>
+    <Information>
+      <Id>37</Id>
+      <heading>3. Rights of political expression
+</heading>
+      <text>Freedom of expression, assembly, and association; the right to take part in government; and periodic and meaningful elections with universal and equal suffrage.</text>
+    </Information>
+  </Htypes>
+  <Htypes>
+    <Information>
+      <Id>38</Id>
+      <heading>4. Economic and social rights
+</heading>
+      <text>An adequate standard of living; free choice of employment; protection against unemployment; "just and favorable remuneration"; the right to form and join trade unions; "reasonable limitation of working hours"; free elementary education; social security; and the "highest attainable standard of physical and mental health."</text>
+    </Information>
+  </Htypes>
+  <Htypes>
+    <Information>
+      <Id>39</Id>
+      <heading>5. Rights of communities
+</heading>
+      <text>Self-determination and protection of minority cultures.</text>
+    </Information>
+  </Htypes>
+  <Types>
+    <Information>
+      <Id>40</Id>
+      <heading>KINDS OF HUMAN RIGHTS</heading>
+      <text>There are two kinds of human rights :</text>
+    </Information>
+  </Types>
+  <Types>
+    <Information>
+      <Id>41</Id>
+      <heading>1. Civil and political rights.
+2. Economic social and cultural rights.</heading>
+      
+    </Information>
+  </Types>
+  <Types>
+    <Information>
+      <Id>42</Id>
+      <heading>1. Civil and political rights.</heading>
+      <text>Civil rights and liberties are referred to those rights which are related to the protection of the right to life and personal liberty. They are essential for 
+a person so that he may live a dignified life. Such rights include right to life, liberty, right to privacy, freedom from torture and right to own property.
+These rights also known as (freedom from).
+
+Whereas political rights may be referred to those rights which allow a person to participate in the government of a state. For e.g. right to vote, right 
+to be elected and right to take part in conduct of public affairs.
+
+The nature of both civil and political rights may be different but they are inter-related and therefore it does not appear logical to differentiate them.
+This reason led to the formulation of one covenant covering both civil and political rights into one covenant i.e. International Covenant on civil and
+political rights.</text>
+    </Information>
+  </Types>
+  <Types>
+    <Information>
+      <Id>43</Id>
+      <heading>2. Economic, social and cultural rights:</heading>
+      <text>Economic, social and cultural rights are based fundamentally on the concept of social equality (also called ‘freedom to’) are related to the 
+guarantee of minimum necessities of the life to human beings. In the absence of these rights the existence of human beings is like to be endangered.
+
+Right to adequate food, clothing, housing and adequate standard of living and freedom from hunger, right to work , right to social security, right to 
+physical and mental health and right to education are included in this category of rights. These rights sometimes called positive rights require active
+intervention, not abstentions on the part of the states. 
+The enjoyment of these rights requires a major commitment of resources and therefore their realization cannot be immediate as in the case of civil 
+and political rights.
+
+Although the United Nations has recognized the above two sets of rights in two separate Covenants i.e. International covenant on civil and political 
+rights ( ICCPR) and International covenant on economic social and cultural rights ( ICESCR) there is a close relationship between them. It has been 
+rightly realized especially by the developing countries that civil and political rights can have no meaning unless they are accompanied by social,
+economic and cultural rights. Thus both categories of rights are equally important and where civil and political rights do not exist, there cannot
+be full realization of economic, social and cultural rights and vice versa.</text>
+    </Information>
+  </Types>
+  
+    
+</Maininformation>

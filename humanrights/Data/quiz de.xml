@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ArrayOfQuiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quiz>
+    <quizId>0</quizId>
+    <question>1: Was sind Menschenrechte?
+	</question>
+    <answer>Universelle natürliche Rechte oder Status haben, unabhängig von der gesetzlichen Zuständigkeit oder anderen örtlichen Gegebenheiten wie ethnischer Zugehörigkeit, Nationalität und Geschlecht.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>1</quizId>
+    <question>2: Woraus bestehen bürgerliche und politische Rechte?</question>
+    <answer>Bezogen auf den Schutz des Rechts auf Leben und der persönlichen Freiheit.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>2</quizId>
+    <question>3: Woraus bestehen wirtschaftliche, soziale und kulturelle Rechte?</question>
+    <answer>Soziale Gleichstellung (auch „Freiheit zu“ genannt) </answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>3</quizId>
+    <question>4. Welcher Artikel enthält eine allgemeine Erklärung der Menschenrechte?</question>
+    <answer>Recht auf Leben, Freiheit und die Sicherheit der Person.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>4</quizId>
+    <question>5. Welches sind individuelle Rechte?</question>
+    <answer>Leben, Freiheit und Sicherheit der Person; Privatsphäre und Bewegungsfreiheit; Eigentum an Eigentum.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>5</quizId>
+    <question>6. Welches sind Rechtsstaatlichkeit?</question>
+    <answer>Gleiche Anerkennung vor dem Gesetz und gleicher Schutz des Gesetzes.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>6</quizId>
+    <question>7. Welches sind die Rechte von Gemeinschaften?</question>
+    <answer>Selbstbestimmung und Schutz von Minderheitenkulturen.</answer>
+    <correct>true</correct>
+  </Quiz>
+</ArrayOfQuiz>

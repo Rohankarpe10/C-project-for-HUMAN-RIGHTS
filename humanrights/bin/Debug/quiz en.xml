@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ArrayOfQuiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quiz>
+    <quizId>0</quizId>
+    <question>1: What is human rights?
+	</question>
+    <answer>Universal natural rights or status,or other localizing, such as ethnicity, nationality,and sex.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>1</quizId>
+    <question>2: What does civil and political rights consists of ?</question>
+    <answer>Related to the protection of the right to life and personal liberty.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>2</quizId>
+    <question>3: What does   Economic, social and cultural rights consists of ?</question>
+    <answer>Social equality (also called ‘freedom to’) </answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>3</quizId>
+    <question>4. Which article is of universal declaration of human rights?</question>
+    <answer>Right to life, liberty and the security of person.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>4</quizId>
+    <question>5. Which are individual rights?</question>
+    <answer>Life, liberty, and privacy and freedom of movement; ownership of property.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>5</quizId>
+    <question>6. Which are Rule of law?</question>
+    <answer>Equal recognition before the law and equal protection of the law.</answer>
+    <correct>true</correct>
+  </Quiz>
+  <Quiz>
+    <quizId>6</quizId>
+    <question>7. Which are Rights of communities?</question>
+    <answer>Self-determination and protection of minority cultures.</answer>
+    <correct>true</correct>
+  </Quiz>
+</ArrayOfQuiz>
